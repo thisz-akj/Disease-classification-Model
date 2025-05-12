@@ -1,6 +1,7 @@
 ## Deep Learning-Based Chicken Disease Detection
-Overview
-This project is a production-grade deep learning model designed to detect chicken diseases from fetus images using VGG16. It includes a scalable ML pipeline, AWS deployment, and CI/CD automation for continuous improvement and seamless integration into real-world applications.
+# Overview
+
+This project is a production-grade deep learning model designed to detect chicken diseases from fetus images using  a custom finetuned and otimized VGG16. It includes a scalable ML pipeline, AWS deployment, and CI/CD automation for continuous improvement and seamless integration into real-world applications.
 
 ## Features
 * Deep Learning Model: Utilizes a fine-tuned VGG16 model for accurate disease classification.
