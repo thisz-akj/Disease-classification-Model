@@ -5,6 +5,7 @@ This project is a production-grade deep learning model designed to detect chicke
 
 ## Features
 * Deep Learning Model: Utilizes a fine-tuned VGG16 model for accurate disease classification.
+* Finetuned and Optimized Model: Additional finetuned and Optimized the VGG 16 Model for the task and faster performance
 *  Production-Grade ML Pipeline: Fully automated data preprocessing, training, validation, and deployment.
 *  Dockerized Deployment: Ensures portability & reproducibility across different environments.
 *  AWS Integration: Scalable cloud deployment for real-time disease detection.
